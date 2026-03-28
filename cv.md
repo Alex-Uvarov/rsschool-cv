@@ -41,8 +41,8 @@ fetch("https://jsonplaceholder.typicode.com/posts/1")
 
 Work Experience
 ----
-* Web Larek
-* Stellar burgers
+* [Web Larek](https://github.com/Alex-Uvarov/web-larek-frontend)
+* [Stellar burgers](https://github.com/Alex-Uvarov/stellar-burgers/tree/review)
 
 Education
 ----
